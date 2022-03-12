@@ -1,3 +1,5 @@
+#Description
+React Web app, where you can save everything that is happening daily, uploading images, authenticating your user with google firebase and keeping track of it.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
